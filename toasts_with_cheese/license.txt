@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toasts with Cheese
+* source:	https://sketchfab.com/3d-models/toasts-with-cheese-c8742baa63a74898b9398ddbc1cc6ab6
+* author:	XimovsYZ (https://sketchfab.com/ximovsstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toasts with Cheese" (https://sketchfab.com/3d-models/toasts-with-cheese-c8742baa63a74898b9398ddbc1cc6ab6) by XimovsYZ (https://sketchfab.com/ximovsstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
